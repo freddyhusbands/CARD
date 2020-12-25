@@ -1,0 +1,26 @@
+body {
+    background-color: red;
+
+}
+
+
+
+#container {
+    margin: 300px;
+}
+
+h2 {
+    color: green;
+}
+
+a:visited {
+    color: green;
+}
+
+p {
+    color: green;
+}
+
+#cover {
+    color: red;
+}
